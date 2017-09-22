@@ -1,4 +1,6 @@
 # Mountain Rapture
+
+[![Join the chat at https://gitter.im/mtn-rapture/Lobby](https://badges.gitter.im/mtn-rapture/Lobby.svg)](https://gitter.im/mtn-rapture/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 _Mountain Rapture_ is a game currently being written in Lua with the excellent [LOVE](https://love2d.org/) framework for 2D games, inspired by classic JRPGs and the "king in the mountain" motif found in literature and legend worldwide.  It tells the story of a hero returning to their people in a time of need.  _Mountain Rapture_ is thus far my most ambitious project, something that will probably take forever to finish.
 
 ## Contact
