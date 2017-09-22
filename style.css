@@ -1,0 +1,40 @@
+
+body {
+	background-color:  black;
+	font-family:  verdana;
+}
+
+div.txtbox {
+	background-color:  white;
+	font-size:  11px;
+	margin:  auto;
+	width:  75%;
+	padding:  25px;
+}
+
+#titlebar {
+	padding:  50px 20px;
+	margin:  auto;
+	width:  75%;
+	color:  white;
+}
+
+#mainbody {
+	padding-bottom:  50px;
+}
+
+a {
+	color:  red;
+}
+
+.button {
+	padding:  15px;
+	display:  inline-block;
+	background-color:  white;
+	color:  black;
+	cursor:  pointer;
+	text-decoration:  none;
+	border:  none;
+	text-align:  center;
+	margin:  0;
+}
